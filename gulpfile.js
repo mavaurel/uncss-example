@@ -4,7 +4,6 @@ var postcss = require('gulp-postcss');
 var cssnano = require('cssnano');
 var uncss = require('postcss-uncss');
 rmLines = require('gulp-rm-lines');
-var remove = require('gulp-html-remove');
 
 
 var exec = require('child_process').exec;
