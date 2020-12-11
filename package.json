@@ -1,0 +1,28 @@
+{
+  "name": "myprojece",
+  "version": "1.0.0",
+  "description": "my project",
+  "main": "index.js",
+  "cssnano": {
+    "preset": "advanced"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "cssnano": "^4.1.10",
+    "cssnano-preset-advanced": "^4.0.7",
+    "gulp": "^4.0.2",
+    "gulp-html-remove": "^0.1.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rm-lines": "0.0.10",
+    "gulp-sass": "^4.1.0",
+    "gulp-uncss": "^1.0.6",
+    "postcss-uncss": "^0.16.1",
+    "sitemap-stream-parser": "^1.7.0",
+    "uncss": "^0.16.2"
+  }
+}
